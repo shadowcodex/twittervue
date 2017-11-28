@@ -1,5 +1,5 @@
 <h1 align="center"> TwitterVue </h1>
-<p align="center">A directory of influential and notable people and projects on twitter.</p>
+<p align="center">A directory of influential/notable people and projects on twitter for Vue.js</p>
 
 <hr>
 
