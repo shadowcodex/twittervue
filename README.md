@@ -18,6 +18,13 @@
 - [@zhaojinjiang](https://twitter.com/zhaojinjiang) - Jinjiang
 - [@kazu_pon](https://twitter.com/kazu_pon) - Kazuya Kawaguchi
 - [@_egoistlily](https://twitter.com/_egoistlily) - EGOIST
+- [@posva](https://twitter.com/posva) - Eduardo
+- [@simplesmiler](https://twitter.com/simplesmiler) - Denis Karabaza
+- [@Eddyerburgh](https://twitter.com/EddYerburgh) - Edd Yerburgh
+- [@ktsn](https://twitter.com/ktsn) - Katashin
+- [@znck0](https://twitter.com/znck0) - Rahul Kadyan
+- [@atomaka](https://twitter.com/atomaka) - Andrew Tomaka
+- [@notphanan](https://twitter.com/notphanan) - Phan An
 
 ## Community Partners
 
