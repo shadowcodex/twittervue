@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/discord/630805507782868992.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/GghbTQA)
+
 <h1 align="center"> TwitterVue </h1>
 <p align="center">A directory of influential/notable people and projects on twitter for Vue.js</p>
 
